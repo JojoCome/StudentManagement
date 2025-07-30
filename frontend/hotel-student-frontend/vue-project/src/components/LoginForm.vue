@@ -2,7 +2,7 @@
   <div class="login-form">
     <h2>登录系统</h2>
 
-    
+    <p>新增修改</p>
     <div>
       <label>用户名：</label>
       <input v-model="username" type="text" />
